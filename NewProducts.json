@@ -1,32 +1,32 @@
 [
   {
  "id":1,
-"name":"iPhone 13 Pro Max",
-"price":"28350",
-"url":"https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/1-%20Iphone%2013%20Pro%20Max.png"
+"name":"iPhone 14 Pro Max",
+"price":"1600",
+"url":"https://github.com/vasilistzanis/JasonFile/blob/main/1-%20Iphone%2013%20Pro%20Max.png"
   },
   {
  "id":2,
 "name":"Macbook Pro",
-"price":"32330",
-"url":"https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/2%20-%20Macbook%20Pro.png"
+"price":"3500",
+"url":"https://github.com/vasilistzanis/JasonFile/blob/main/2%20-%20Macbook%20Pro.png"
   },
   {
  "id":3,
 "name": "iPad Pro",
-"price":"27400",
-"url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/3%20-%20iPad%20Pro.jpg"
+"price":"3000",
+"url": "https://github.com/vasilistzanis/JasonFile/blob/main/3%20-%20iPad%20Pro.jpg"
   },
   {
 "id": 4,
 "name": "Samsung 8K Smart TV",
-"price":"53500",
-"url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/4%20-%20Samsung%208K%20Smart%20TV.png"
+"price":"3000",
+"url": "https://github.com/vasilistzanis/JasonFile/blob/main/4%20-%20Samsung%208K%20Smart%20TV.png"
   },
   {
  "id":5,
 "name": "Sony Camera",
-"price":"37200",
-"url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/5%20-%20Sony%20Camera.png"
+"price":"1500",
+"url": "https://github.com/vasilistzanis/JasonFile/blob/main/5%20-%20Sony%20Camera.png"
   }
 ]
