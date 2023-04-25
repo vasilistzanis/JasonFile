@@ -3,30 +3,30 @@
 "id": 6,
 "name": "Coffee Maker",
 "price": "160",
-"url": "https://github.com/vasilistzanis/JasonFile/blob/main/Philips%20Cofffee%20maker.jpg"
+"url": "https://raw.githubusercontent.com/vasilistzanis/JasonFile/main/Philips%20Cofffee%20maker.jpg"
   },
   {
 "id": 7,
 "name": "LG Washing Machine",
 "price": "6450",
-"url": "https://github.com/vasilistzanis/JasonFile/blob/main/LG%20Washing%20%CE%9Cachine.jpg"
+"url": "https://raw.githubusercontent.com/vasilistzanis/JasonFile/main/LG%20Washing%20%CE%9Cachine.jpg"
   },
   {
 "id": 8,
 "name": "Logitech Mouse",
 "price": "250",
-"url": "https://github.com/vasilistzanis/JasonFile/blob/main/Logitech%20Mouse.jpg"
+"url": "https://raw.githubusercontent.com/vasilistzanis/JasonFile/main/Logitech%20Mouse.jpg"
   },
   {
 "id": 9,
 "name": "Google Pixel 7 Pro",
 "price": "879",
-"url": "https://github.com/vasilistzanis/JasonFile/blob/main/google_pixel7_pro_2.jpg"
+"url": "https://raw.githubusercontent.com/vasilistzanis/JasonFile/main/google_pixel7_pro_2.jpg"
   },
   {
 "id": 10,
 "name": "Samsung Galaxy A52",
 "price": "800",
-"url": "https://github.com/vasilistzanis/JasonFile/blob/main/Samsung%20Galaxy%20A52.png"
+"url": "https://raw.githubusercontent.com/vasilistzanis/JasonFile/main/Samsung%20Galaxy%20A52.png"
   }
 ]
