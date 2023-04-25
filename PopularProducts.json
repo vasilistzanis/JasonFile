@@ -1,13 +1,13 @@
 [
   {
 "id": 6,
-"name": "Casper Nirvana",
-"price": "8350",
-"url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Casper%20Nirvana.png"
+"name": "Coffee Maker",
+"price": "160",
+"url": "https://github.com/vasilistzanis/JasonFile/blob/main/Philips%20Cofffee%20maker.jpg"
   },
   {
 "id": 7,
-"name": "LG Çamaşır Makinesi",
+"name": "LG Washing Machine",
 "price": "6450",
 "url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/LG%20%C3%87ama%C5%9F%C4%B1r%20Makinesi.jpg"
   },
