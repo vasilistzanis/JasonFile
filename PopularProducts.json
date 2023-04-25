@@ -15,18 +15,18 @@
 "id": 8,
 "name": "Logitech Mouse",
 "price": "250",
-"url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Logitech%20Mouse.jpg"
+"url": "https://github.com/vasilistzanis/JasonFile/blob/main/Logitech%20Mouse.jpg"
   },
   {
 "id": 9,
-"name": "Philips Kahve Makinesi",
-"price": "579",
-"url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Philips%20Kahve%20Makinesi.jpg"
+"name": "Google Pixel 7 Pro",
+"price": "879",
+"url": "https://github.com/vasilistzanis/JasonFile/blob/main/google_pixel7_pro_2.jpg"
   },
   {
 "id": 10,
 "name": "Samsung Galaxy A52",
 "price": "5999",
-"url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Samsung%20Galaxy%20A52.png"
+"url": "https://github.com/vasilistzanis/JasonFile/blob/main/Samsung%20Galaxy%20A52.png"
   }
 ]
